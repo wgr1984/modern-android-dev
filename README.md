@@ -11,6 +11,7 @@ For this reason lets keep [Scala](http://scala-android.org/) aside for now as it
 
 # Apk Size (allmost plain beside Swissknife)
 On of the most important aspects beside performance (runtime/compile)
+
 | Groovy        | Kotlin        |
 | ------------- |:-------------:|
 |3.0MB          |          1.9MB|
