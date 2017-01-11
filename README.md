@@ -9,9 +9,9 @@ exchange java api.
 For this reason lets keep [Scala](http://scala-android.org/) aside for now as it provide quite high barrier to access it from java, even if it is quite lightwidth in terms of apk-size. Maybe do a extra section at the end.
 
 Languages to be analyzed:
-* Groovy
-* Kotlin
-* Xtend
+* [Groovy](https://github.com/groovy/groovy-android-gradle-plugin)
+* [Kotlin](https://kotlinlang.org/)
+* [Xtend](https://eclipse.org/xtend)
 * Java + [Retrolambda](https://github.com/evant/gradle-retrolambda) + [ProjectLomkok](https://projectlombok.org/)
 
 # Apk Size (allmost plain beside Swissknife)
