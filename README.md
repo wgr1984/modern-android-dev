@@ -17,6 +17,6 @@ Languages to be analyzed:
 # Apk Size (allmost plain beside Swissknife)
 On of the most important aspects beside performance (runtime/compile)
 
-| Groovy        | Kotlin        | Xtend         |
-| ------------- |:-------------:|:-------------:|
-|3.0MB          |          1.9MB|          2.1MB|
+| Groovy        | Kotlin        | Xtend         |    _(ref)Java_|
+|:-------------:|:-------------:|:-------------:|:--------------|
+|3.0MB          |          1.6MB|          2.1MB|          1.4MB|
