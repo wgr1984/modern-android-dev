@@ -21,7 +21,7 @@ On of the most important aspects beside performance (runtime/compile)
 |:-------------:|:-------------:|:-------------:|:---------------:|:-------------:|
 |3.0MB          |          1.6MB|          2.1MB|            1.4MB|          1.4MB|
 
-No supprise java+extras is wining regarding size as not runtime libs are added at all.
+No supprise java+extras is winning regarding size as no runtime libs are added at all.
 Interresting fact: Kotlin is quite close.
 
 # Supported features
