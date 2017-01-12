@@ -45,3 +45,8 @@ captures/
 gradle-wrapper.jar
 
 .lazybones/
+.settings/
+.classpath
+*._trace
+.project
+xtend-gen/
