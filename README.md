@@ -6,7 +6,7 @@ alternative jvm languages compatible with Android.
 Furthermore only such will be selected which play nice with java and provide easy
 exchange java api.
 
-For this reason lets keep [Scala](http://scala-android.org/) aside for now as it provide quite high barrier to access it from java, even if it is quite lightwidth in terms of apk-size. Maybe do a extra section at the end.
+For this reason lets keep [Scala](http://scala-android.org/) aside for now as it provide quite high barrier to access it from java, even if it is quite lightwidth in terms of apk-size. Maybe do an extra section at the end.
 
 Languages to be analyzed:
 * [Groovy](https://github.com/groovy/groovy-android-gradle-plugin)
