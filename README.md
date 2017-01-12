@@ -12,7 +12,7 @@ Languages to be analyzed:
 * [Groovy](https://github.com/groovy/groovy-android-gradle-plugin)
 * [Kotlin](https://kotlinlang.org/)
 * [Xtend](https://eclipse.org/xtend)
-* Java + [Retrolambda](https://github.com/evant/gradle-retrolambda) + [ProjectLomkok](https://projectlombok.org/)
+* Java + [Retrolambda](https://github.com/evant/gradle-retrolambda) + [ProjectLombok](https://projectlombok.org/)
 
 # Apk Size
 On of the most important aspects beside performance (runtime/compile)
