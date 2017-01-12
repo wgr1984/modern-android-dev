@@ -14,9 +14,14 @@ Languages to be analyzed:
 * [Xtend](https://eclipse.org/xtend)
 * Java + [Retrolambda](https://github.com/evant/gradle-retrolambda) + [ProjectLomkok](https://projectlombok.org/)
 
-# Apk Size (allmost plain beside Swissknife)
+# Apk Size
 On of the most important aspects beside performance (runtime/compile)
 
-| Groovy        | Kotlin        | Xtend         |    _(ref)Java_|
-|:-------------:|:-------------:|:-------------:|:--------------|
-|3.0MB          |          1.6MB|          2.1MB|          1.4MB|
+| Groovy        | Kotlin        | Xtend         |Java+Retro+Lombok|    _(ref)Java_|
+|:-------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+|3.0MB          |          1.6MB|          2.1MB|            1.4MB|          1.4MB|
+
+No supprise java+extras is wining regarding size as not runtime libs are added at all.
+Interresting fact: Kotlin is quite close.
+
+# Supported features
